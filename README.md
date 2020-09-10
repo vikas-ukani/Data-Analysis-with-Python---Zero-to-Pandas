@@ -46,6 +46,8 @@
 - Demonstrate usage 5 numpy array operations
 - Publish a Jupyter notebook with explanations
 
+---
+
 ### Lesson 4 - Pandas for working with tabular data
 
 - Series
