@@ -1,33 +1,105 @@
-## Welcome to GitHub Pages
+# Data-Analysis-with-Python---Zero-to-Pandas
 
-You can use the [editor on GitHub](https://github.com/vikas-ukani/Data-Analysis-with-Python---Zero-to-Pandas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+**"Data Analysis with Python: Zero to Pandas"** is a practical, beginner-friendly and coding-focused introduction to data analysis covering the basics of Python, Numpy, Pandas, data visualization and exploratory data analysis. This course runs over 6 weeks, with a 2-hour video lecture every week with live interactive coding using Jupyter notebooks. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> Note: *Feel free to clone this repository and folk this if you want to learn something interesting about data science.*
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+- Here is the list of lession the i learn from Jovion.ml online classes.
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Lesson 1 - Introduction to Programming with Python
 
-[Link](url) and ![Image](src)
-```
+Basic Introduction about this course and some intresting python language tips and trics.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Course overview & curriculum walkthrough
+- First steps with Python and Jupyter notebooks
+- A quick tour of variables and data types
+- Branching with conditional statements and loops
 
+### Assignment 1 - Python Basics Practice
+
+- Solve word problems using variables & arithmetic operations
+- Manipulate data types using methods & operators
+- Use branching and iterations to translate ideas into code
+- Explore the documentation and get help from the community
+
+---
+
+### Lesson 2 - Next Steps with Python
+
+- Branching with conditional statements and loops
+- Write reusable code with Functions
+- Working with the OS & Filesystem
+- Assignment and course forum walkthrough
+
+---
+
+### Lesson 3 - Numerical Computing with Numpy
+
+- Going from Python lists to Numpy arrays
+- Working with multi-dimensional arrays
+- Array operations, slicing and broadcasting
+- Working with CSV data files
+
+### Assignment 2 - Numpy Array Operations
+
+- Explore the Numpy documentation website
+- Demonstrate usage 5 numpy array operations
+- Publish a Jupyter notebook with explanations
+
+---
+
+### Lesson 4 - Pandas for working with tabular data
+
+- Series
+- Dataframes
+- Operations
+- Merging
+- Grouping 
+- Joining
+
+### Assignment 3 - Pandas Practice
+
+- Read and write different file types using Pandas data frames
+- Manipulate rows, columns, empty values in data frames
+- Merge, join and query data from multiple data frames
+- Explore interoperability between Numpy & Pandas
+
+---
+
+### Lesson 5 - Visualization with Matplotlib and Seaborn
+
+- Basic visualization with Matplotlib
+- Beautiful visualizations with Seaborn
+- Plotting directly from Pandas
+- Other libraries: Plotly, Bokeh, Folium etc.
+
+---
+
+### Lesson 6 - Exploratory Data Analysis: A Case Study
+
+- Working with Images using PIL
+- Loading a dataset with Pandas
+- Operations with numpy
+- Visualization with Matplotlib & Seaborn
+
+---
+
+### Course Project - Exploratory Data Analysis
+
+- Find a real-world dataset of your choice online
+- Use Numpy & Pandas to parse, clean & analyze data
+- Use Matplotlib & Seaborn to create visualizations
+
+---
+  
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vikas-ukani/Data-Analysis-with-Python---Zero-to-Pandas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
